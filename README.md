@@ -12,22 +12,25 @@ A responsive blog made for people to share their secret anonymously built with P
 ## Demo
 
 #### Home Page
-![Demo Doccou alpha]()
+![Demo](https://media.giphy.com/media/cMBSR1v9qhAkulvNla/giphy.gif)
 
 #### About Page
-![Demo Doccou alpha]()
+![Demo](https://media.giphy.com/media/vEfJjgAAsYPk2eekek/giphy.gif)
 
 #### Blog
-![Demo Doccou alpha]()
+![Demo](https://media.giphy.com/media/oKnFsGgnFs4S0Xes0q/giphy.gif)
 
-#### Sing In Page
-![Demo Doccou alpha]()
+#### Profile Page
+![Demo](https://media.giphy.com/media/LuR8dSUKJ1eGd02AQK/giphy.gif)
 
 #### Sing Up Page
-![Demo Doccou alpha]()
+![Demo](https://media.giphy.com/media/mRJEHWBFQ0B5Jowl2j/giphy.gif)
+
+#### Sing In Page
+![Demo](https://media.giphy.com/media/IvAE2w0sb9Nvo8gVum/giphy.gif)
 
 #### Full Video
-[![Watch the full video here](https://youtu.be/kYyiUsur-u8)](https://youtu.be/kYyiUsur-u8)
+[![Watch the full video here](https://youtu.be/eClz88QL1D4)](https://youtu.be/eClz88QL1D4)
 
 ## Installation
 To run this project: 
