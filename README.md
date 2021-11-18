@@ -6,8 +6,15 @@
 A responsive blog made for people to share their secret anonymously built with PHP 8 & Bootstrap using MySQL as the database.
 
 ## Table of Content
-- Demo
-- Installation
+- [Installation](#Installation)
+- [Demo](#Demo)
+
+## Installation
+To run this project: 
+- Install the project locally on htdocs folder of XAMPP folder 
+- Start Apache and MySQL on XAMPP
+- Go to your localhost address on your browser
+- choose the project folder
 
 ## Demo
 
@@ -31,10 +38,3 @@ A responsive blog made for people to share their secret anonymously built with P
 
 #### Full Video
 [![Watch the full video here](https://youtu.be/eClz88QL1D4)](https://youtu.be/eClz88QL1D4)
-
-## Installation
-To run this project: 
-- Install the project locally on htdocs folder of XAMPP folder 
-- Start Apache and MySQL on XAMPP
-- Go to your localhost address on your browser
-- choose the project folder
