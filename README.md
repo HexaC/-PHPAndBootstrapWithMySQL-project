@@ -3,7 +3,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HexaC/-reactAndNodejsWithMongoDB-project)
 
 ## Description
-A responsive blog made for people to share their secret anonymously built with PHP 8 & Bootstrap using MySQL as the database.
+A blog made for people to share their secret anonymously to the world in the safeset way there is.
 
 ## Table of Content
 - [Installation](#Installation)
